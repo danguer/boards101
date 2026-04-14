@@ -8,6 +8,6 @@ hero:
   actions:
     - theme: alt
       text: WeAct
-      link: /boards101/weact.html
+      link: /weact.html
 ---
 
