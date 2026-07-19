@@ -7,8 +7,8 @@ WIFI/Bluetooth.
 ## Links
 * [Official Sales Page](https://www.guition.com/esp32p4-display-module/esp32p4-display-module)
 * [Board Description](https://www.guition.com/icms/upload/fb081940d6fc11f09850077a33e1404f/file/productmanager-productfile/8e23ff8b670e435fa919fbe6ab2f0cb5/Directory/JC-ESP32P4-M3-DEV%20Specifications-EN_1776046921880.pdf)
-* [ESP32-P4 Datasheet](https://documentation.espressif.com/esp32-p4_datasheet_en.pdf)
-* [ESP32-P4 Technical Reference](https://documentation.espressif.com/esp32-p4_technical_reference_manual_en.pdf)
+* [ESP32-P4 Datasheet](https://documentation.espressif.com/esp32-p4-chip-revision-v1.3_datasheet_en.pdf)
+* [ESP32-P4 Technical Reference](https://documentation.espressif.com/esp32-p4-chip-revision-v1.3_technical_reference_manual_en.pdf)
 * [ESP32-C6 Datasheet](https://documentation.espressif.com/esp32-c6_datasheet_en.pdf)
 * [ESP32-C6 Technical Reference](https://documentation.espressif.com/esp32-c6_technical_reference_manual_en.pdf)
 
