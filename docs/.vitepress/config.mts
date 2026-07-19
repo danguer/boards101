@@ -9,7 +9,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'WeAct', link: '/weact.html' }
+      { text: 'WeAct', link: '/weact.html' },
+      { text: 'Guition', link: '/guition.html' },
     ],
 
     sidebar: [
@@ -18,6 +19,13 @@ export default defineConfig({
         items: [
           { text: 'WeAct MSPM0G3507', link: '/weact/mspm0g3507.html' },
         ]
+      },
+      {
+        text: 'Guition',
+        items: [
+          { text: 'Guition JC-ESP32P4-M3-Dev', link: '/guition/jc-esp32p4-m3-dev.html' },
+        ]
+
       }
     ],
 
@@ -34,9 +42,10 @@ export default defineConfig({
       'script',
       {},
       `window.dataLayer = window.dataLayer || [];
-       function gtag(){dataLayer.push(arguments);}
-       gtag('js', new Date());
-       gtag('config', 'G-R5BR3HWVHX');`
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-R5BR3HWVHX');`
     ]
   ]
 })
