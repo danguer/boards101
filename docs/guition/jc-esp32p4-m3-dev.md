@@ -23,7 +23,7 @@ WIFI/Bluetooth.
 |  1     | **BOOT**  (*SW1*) - Boot Mode/`GPIO35` |
 |  2     | **RESET** (*SW2*) - `CHIP_PU` |
 |  3     | Microphone (*MIC1*) |
-|  4     | Microphone Output (*CN1*) |
+|  4     | Speaker (*CN1*) |
 |  5     | microSD Card Reader (*J1*) |
 |  6     | Battery Connector (*CN4*)|
 |  7     | Battery Start Charging (*SW3*) |
